@@ -1,1 +1,1 @@
-https://doc.rust-lang.org/rust-by-example/flow_control/for.html
+https://doc.rust-lang.org/rust-by-example/fn/closures/output_parameters.html
